@@ -1,0 +1,4 @@
+NOMBRE,DESCRIPCION,DIFICULTAD
+Novato,Sube un nivel,facil
+Descente,Sube 10 niveles,medio
+Experto,Sube 20 niveles,dificil

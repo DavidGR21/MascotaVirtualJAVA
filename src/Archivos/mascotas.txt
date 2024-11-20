@@ -1,0 +1,1 @@
+Nombre,Level,Vida,Energía,Hambre,Higiene,Dinero,Exp,CantPizzas,CantHamburguesas,CantSushis,CantPastillas,CantJarabes,CantSueros
