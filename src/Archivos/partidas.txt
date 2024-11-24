@@ -1,1 +1,2 @@
 MASCOTA,ESTADO
+Simba,vivo
