@@ -1,1 +1,2 @@
 MASCOTA,NOMBRELOGRO,DESCRIPCION,DIFICULTAD
+Simba,Novato,Sube un nivel,facil
